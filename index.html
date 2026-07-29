@@ -3,22 +3,18 @@
     <head>
         <meta charset="utf-8">
         <title>Gwendoline Thornton</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="index.css" type="text/css">
-    </head>
-    <body>
-        <!---<nav>
-        <a href="#home" target="_blank">Home</a>
-        <a href="#about" target="_blank">About</a>
-        <a href="#contact" target="_blank">Contact</a>
-        </nav> -->
+        </head>
 
+    <body>
+        <header id="home">
         <nav>
         <a href="#home" target="_blank" aria-label="Go to home page (opens in new tab)">Home</a>
-        <a href="#about" target="_blank" aria-label="Go to about page (opens in new tab)">About</a>
-        <a href="#contact" target="_blank" aria-label="Go to contact page (opens in new tab)">Contact</a>   
+        <a href="about.html" target="_blank" aria-label="Go to about page (opens in new tab)">About</a>
+        <a href="contact.html" target="_blank" aria-label="Go to contact page (opens in new tab)">Contact</a>   
         </nav>
-
-        <header id="home">
+        
         <h1>Gwendoline Thornton</h1>
         <p><strong>PRODUCT DESIGNER, MECHANICAL & MANUFACTURING TECHNICIAN & FOUNDER OF THE.WORKSHOP LTD</strong></p>
         <p>I design and manufacture physical products across hardware, <br>
@@ -28,59 +24,53 @@
         first prototype rather than added at the end.</p>
         
         <figure>
-        <img src="../assets/images/gwendoline-thornton.png" alt="Gwendoline Thornton"  width="200px" height="200px">
+        <img src="../assets/images/gwendoline-thornton.png" alt="Gwendoline Thornton" width="200px" height="200px">
         <figcaption>Gwendoline Thornton</figcaption>
         </figure>
         </header> 
 
         <hr>
-        <div>
-        <H2>Headline Projects</H2>
+        <section aria-labelledby="projects-heading"></section>
+        <h2 id="projects-heading"> Headline Projects</h2>
         <p>A short selection of recent work across three areas of practice.</p>
         
-        <div style="background-color: chocolate;">
-        <h3>Sensory-friendly toy range</h3>
+        <article class="project-card"></article>
+        <h3>Sensory-Friendly Toy Range</h3>
         <p>A small toy range for neurodivergent children, built around predictable textures and quiet mechanisms, manufactured in-house.</p>
-        </div>
+        </article>
 
-        <div style="background-color: chocolate;">
-        <h3>Custom hardware enclosure</h3>
-        <p>Insert Text Here</p>
-        </div>
+        <article class="project-card">
+        <h3>Tech Forward Mobility Aid 2.0</h3>
+        <p>Manufactured and designed several prototypes of a next-generation mobility aid for visually impaired users to navigate.</p>
+        </article>
 
-        <div style="background-color: chocolate;">
+        <article class="project-card">
         <h3>High Altitude Balloon</h3>
-        <p>Insert Text Here</p>
-        </div>
+        <p>A custom-built balloon for scientific research in high-altitude environments, in collaboration with cambridge and imperial universities.</p>
+        </article>
 
         <hr>
         </div>
-
         
-        <H2>Skills & Services</H2>
+        <section aria-labelledby="services-heading">
+        <h2 id="services-heading">Skills & Services</h2>
         <p>Available for consulting, contract design work and manufacturing partnerships.</p>
 
-        <table>
-        <tr><td><h3>01 Product Design   </h3></td><td>Concept development, CAD modelling and design-for-manufacture, from first sketch to production-ready file.</td></tr>
-        <tr><td><h3>02 Assistive Tech   </h3></td><td>Accessibility-first product development, working directly with disabled and neurodivergent users during testing.</td></tr>
-        <tr><td><h3>03 Manufacturing    </h3></td><td>Injection moulding, small-batch production and prototyping for hardware and plastic goods.</td></tr>
-        </table>
-
-        <div style="background-color: chocolate;">
-        <H3>01 Product Design</H3>
+        <article class="service-card">
+        <h3>01 Product Design</h3>
         <p>Concept development, CAD modelling and design-for-manufacture, from first sketch to production-ready file.</p>
-        </div>
+        </article>
 
-        
-        <div style="background-color: chocolate;">
-        <H3>02 Assistive Tech Consulting</H3>
+        <article class="service-card">
+        <h3>02 Assistive Tech Consulting</h3>
         <p>Accessibility-first product development, working directly with disabled and neurodivergent users during testing.</p>
-        </div>
+        </article>
 
-        <div style="background-color: chocolate;">
-        <H3>03 Manufacturing & Prototyping</H3>
+        <article class="service-card">
+        <h3>03 Manufacturing & Prototyping</h3>
         <p>Injection moulding, small-batch production and prototyping for hardware and plastic goods.</p>
-        </div>
+        </article>
+        </section>
 
         <footer>
         <p>Copyright © 2026 Gwendoline Thornton. All rights reserved.</p>
