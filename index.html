@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-
-
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -8,53 +6,50 @@
         <link rel="stylesheet" href="index.css" type="text/css">
     </head>
     <body>
-        <!--Gwendoline Thornton Home About Contact
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
-        -->
+        <!---<nav>
+        <a href="#home" target="_blank">Home</a>
+        <a href="#about" target="_blank">About</a>
+        <a href="#contact" target="_blank">Contact</a>
+        </nav> -->
 
-        <!--The example below has 3 attributes:
-        <a href="https://codeinstitute.net/" target="_blank" title="Click me!">
-        <img src="logo.png" height="150">
-        </a>-->
+        <nav>
+        <a href="#home" target="_blank" aria-label="Go to home page (opens in new tab)">Home</a>
+        <a href="#about" target="_blank" aria-label="Go to about page (opens in new tab)">About</a>
+        <a href="#contact" target="_blank" aria-label="Go to contact page (opens in new tab)">Contact</a>   
+        </nav>
 
-        <!-- underscore on the blank of the anchor opens up the link in a new tab-->
-
-        <a href="#home">Home</a>
-        <a href="#about">About</a>
-        <a href="#contact">Contact</a>
-
-        <div id="home"></div>
-
-        <H1>Gwendoline Thornton</H1>
+        <header id="home">
+        <h1>Gwendoline Thornton</h1>
         <p><strong>PRODUCT DESIGNER, MECHANICAL & MANUFACTURING TECHNICIAN & FOUNDER OF THE.WORKSHOP LTD</strong></p>
         <p>I design and manufacture physical products across hardware, <br>
         assistive technology and plastic toys. THE.WORKSHOP LTD takes <br>
         ideas from an early sketch through to a part that comes off a <br>
         production line, with accessibility and usability built in from the <br>
         first prototype rather than added at the end.</p>
-
+        
+        <figure>
         <img src="../assets/images/gwendoline-thornton.png" alt="Gwendoline Thornton"  width="200px" height="200px">
+        <figcaption>Gwendoline Thornton</figcaption>
+        </figure>
+        </header> 
 
         <hr>
-
         <div>
         <H2>Headline Projects</H2>
         <p>A short selection of recent work across three areas of practice.</p>
         
         <div style="background-color: chocolate;">
-        <H3>Sensory-friendly toy range</H3>
+        <h3>Sensory-friendly toy range</h3>
         <p>A small toy range for neurodivergent children, built around predictable textures and quiet mechanisms, manufactured in-house.</p>
         </div>
 
         <div style="background-color: chocolate;">
-        <H3>Custom hardware enclosure</H3>
+        <h3>Custom hardware enclosure</h3>
         <p>Insert Text Here</p>
         </div>
 
         <div style="background-color: chocolate;">
-        <H3>High Altitude Balloon</H3>
+        <h3>High Altitude Balloon</h3>
         <p>Insert Text Here</p>
         </div>
 
@@ -85,6 +80,11 @@
         <div style="background-color: chocolate;">
         <H3>03 Manufacturing & Prototyping</H3>
         <p>Injection moulding, small-batch production and prototyping for hardware and plastic goods.</p>
+        </div>
+
+        <footer>
+        <p>Copyright © 2026 Gwendoline Thornton. All rights reserved.</p>
+        </footer>
 
     </body>
 </html>
