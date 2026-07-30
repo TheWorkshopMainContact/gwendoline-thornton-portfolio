@@ -3,92 +3,102 @@ Gwendoline Thornton
 
 ## Table of Contents
 1. Introduction
-What the project is: Portfolio
-Objectives: I want it to be clear who Gwendoline Thornton is, what I do and how people visiting the site can get in touch.
-3 Pages: Home Page (Key Projects & Services/Skills for sale), About Page (CV History) & Contact Page
-Audience: Customers, Employers, Collaborators
-SEO: Keywords such as "Gwendoline Thornton" need to be in the title & H1 tags, and possibly lower down in H2 tags. For an image of Gwen there should be an alt tag with my name "Gwendoline Thornton"
-Image Optimization: Optimize images so they have small file sizes 
-
 2. Project Overview
+3. User Experience (UX)
+4. Wireframes
+5. Features
+6. Technologies Used
+7. Testing
+8. Deployment
+9. Credits
+10. Acknowledgements
+
+## 1. Introduction
+- **What the project is:** Portfolio
+- **Objectives:** I want it to be clear who Gwendoline Thornton is, what I do and how people visiting the site can get in touch.
+- **3 Pages:** Home Page (Key Projects & Services/Skills for sale), About Page (CV History) & Contact Page
+- **Audience:** Customers, Employers, Collaborators
+- **SEO:** Keywords such as "Gwendoline Thornton" need to be in the title & H1 tags, and possibly lower down in H2 tags. For an image of Gwen there should be an alt tag with my name "Gwendoline Thornton"
+- **Image Optimization:** Optimize images so they have small file sizes 
+
+## 2. Project Overview
 A three-page personal portfolio website for Gwendoline Thornton, owner of THE.WORKSHOP LTD, a product design and manufacturing company working across hardware, assistive tech and plastic toy manufacturing. The website is to be a professional location and home for all of my work that can be shown to employers, collaborators and potential clients when they search my name, rather than relying solely on LinkedIn or third-party press coverage.
-Home Page: Name, short biography, headline projects/work
-About Page: CV History, Prior Experience, Skills
-Contact Page: Contact Details
+- **Home Page:** Name, short biography, headline projects/work
+- **About Page:** CV History, Prior Experience, Skills
+- **Contact Page:** Contact Details
 
 The page will be made from HTML and CSS only.
 
+## 3. User Experience (UX)
+### Project Goals
+- Give Gwendoline Thornton a single, self-owned, professional web presence ranking for her name.
+- Communicate clearly who I am and what I do for several different audiences.
+- Make it easy visitors to contact her
+- Use HTML & CSS in the code
 
-3. User Experience (UX)
-Project Goals
-Give Gwendoline Thornton a single, self-owned, professional web presence ranking for her name.
-Communicate clearly who I am and what I do for several different audiences.
-Make it easy visitors to contact her
-Use HTML & CSS in the code
+### User Stories
+### Employer or Collaborator
+- Skills and experience and assess my fit for a role/project.
+- A CV-style summary of work history in one place
+- Easy to contact me (Gwen) directly
 
-User Stories
-Employer or Collaborator
-Skills and experience and assess my fit for a role/project.
-A CV-style summary of work history in one place
-Easy to contact me (Gwen) directly
+### Customer
+- Who Gwen is, her skills and services on offer and can decide to reach out
+- Evidence of past work or projects which build trust
+- Contact details easily accessible
 
-Customer
-Who Gwen is, her skills and services on offer and can decide to reach out
-Evidence of past work or projects which build trust
-Contact details easily accessible
+### Design Choices
+- Minimal, clean, content-first layout which puts text and key information first, with minimal decoration
+- Significant white space and clear text hierarchy so the page can be easily scanned and read easily by recruiters/clients
+- Consistent Layout/Navigation on all of the pages 
 
-Design Choices
-Minimal, clean, content-first layout which puts text and key information first, with minimal decoration
-Significant white space and clear text hierarchy so the page can be easily scanned and read easily by recruiters/clients
-Consistent Layout/Navigation on all of the pages 
+### Color Scheme
+- Background Color: Hex Code #EDEEE9
+- Text Color: Hex Code #000000
+- Typography: Body Text: Sans-serif
 
-##Color Scheme
-Background Color: Hex Code #EDEEE9
-Text Color: Hex Code #000000
+### Information Architecture
+- Home Page: Name, Summary/Introduction, Highlighted Work
+- About Page: CV History Content, experience, skills and awards
+- Contact Page: Email, Phone Number, LinkedIn, Relevant Company Pages
+- Consistent header and footer across all pages for consistency 
 
-Typography
-Body Text: Sans-serif
+## 4. Wireframes
+- Home Page Wireframe - ![draw.io wireframe for home page](assets/images/gwendoline-thornton-portfolio-home.png)
 
-Information Architecture
-Home Page: Name, Summary/Introduction, Highlighted Work
-About Page: CV History Content, experience, skills and awards
-Contact Page: Email, Phone Number, LinkedIn, Relevant Company Pages
-Consistent header and footer across all pages for consistency 
+- About Page Wireframe - ![draw.io wireframe for about page](assets/images/gwendoline-thornton-portfolio-about.png)
 
-4. Wireframes
-![draw.io wireframe for home page](assets/images/gwendoline-thornton-portfolio-home.png)
-![draw.io wireframe for about page](assets/images/gwendoline-thornton-portfolio-home.png)
-![draw.io wireframe for contact page](assets/images/gwendoline-thornton-portfolio-home.png)
+- Contact Page Wireframe - ![draw.io wireframe for contact page](assets/images/gwendoline-thornton-portfolio-contact.png)
 
-5. Features
-Existing Features
-Home Page
-About Page
-Contact Page
+## 5. Features
+### Existing Features
+- Home Page
+- About Page
+- Contact Page
 
-Future Features
-Blog section
-Testimonial from clients
-Working Contact Form with email integration
+### Future Features
+- Blog section
+- Testimonial from clients
+- Working Contact Form with email integration
 
-6. Technologies Used
-HTML5 
-CSS
-Visual Studio Code
-GitHub
-W3C Validator
-Jigsaw Validator
+## 6. Technologies Used
+- HTML5 
+- CSS
+- Visual Studio Code
+- GitHub
+- W3C Validator
+- Jigsaw Validator
 
-7. Testing
-Manual Testing
+## 7. Testing
+### Manual Testing
 1. Clicking through navigation links and page content across all pages.
 2. Clicking on all links that lead externally from the page to ensure that they open up into a new page
 3. The page was opened up both in visual studio code and via GitHub pages, and the size of the viewing area of the page was adjusted by both width and height manually through both adjusting the size of the browser or the view. This showed how the page moved and that all sections remaind stable when the viewing window changed.
 
-User Story Testing
+### User Story Testing
 
 
-Validator Testing
+### Validator Testing
 Testing the index.html code through the W3C validator for errors. No errors found.
 ![index.html code check through validator](assets/images/index-w3c-check.png)
 
@@ -107,47 +117,47 @@ Testing contact.html code through the W3C validator second check. No errors foun
 Testing custom css code through Jigsaw validator. No errors found.
 ![style.css code check through validator](assets/images/css-jigsaw-validator.png)
 
-Lighthouse Testing
+### Lighthouse Testing
 Testing the github page in Google Chrome Lighthouse for performance issues for both mobile and desktop
-![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section one](assets/images/lighthouse-test-1.png.png)
+![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section one](assets/images/lighthouse-test-1.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section two](assets/images/lighthouse-test-2.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section three](assets/images/lighthouse-test-3.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section four](assets/images/lighthouse-test-4.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section five](assets/images/lighthouse-test-5.png)
 
-Lighthouse Desktop performance test
+### Lighthouse Desktop performance test
 ![Testing of GitHub page ing Google Chrome Lighthouse, for desktop, screenshot of top of page section](assets/images/lighthouse-test-desktop-performance-1.png)
 
-Browser Compatibility
+### Browser Compatibility
 Test in google chrome, Microsoft edge, Safari
 
-Responsiveness Testing
+### Responsiveness Testing
 Testing on a mobile and a laptop view through using the inspect view
 ![Screenshot of testing through inspect tool for mobile view](assets/images/phone-testing-responsiveness.png)
 ![Screenshot of testing through inspect tool for desktop view](assets/images/desktop-testing-responsiveness.png)
 
-Bugs Fixed
+### Bugs Fixed
 1. The article tag was switched to the section tag upon review that it wasn't the appropriate tag. These were changes to sections.
 2. The style.css sheet was not linked properly to the html documents due to an incorrect path.
 3. The path for all of the images referenced in both the home page (index.html) and README.md was not working when the project was pushed to GitHub pages, this had to be changed when the site was published by removing the "/" at the start of the path.
 
-##Known Issues
+### Known Issues
 The portfolio image is is underneath the summary paragraph of the home page, I would like to move the placement of this image to the right side on a future version for personal aesthetic reasons that I think are easier to read and view from a customer/client viewing the website.
 
-8. Deployment
-##Deployment Steps
+## 8. Deployment
+- Deployment Steps
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section one](assets/images/github-deployment-pages-step-one.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section two](assets/images/github-deployment-pages-step-two.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section three](assets/images/github-deployment-pages-step-three.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section four](assets/images/github-deployment-pages-step-four.png)
 
-##Local Development Setup
+### SLocal Development Setup
 1. Clone the repository
 2. Move it into the folder
 3. Open the project in VS Code
 4. To view the site open the index.html in your browser  
 
-##Cloning the Repository
+### Cloning the Repository
 1. Got to github.com
 2. Click on the repository
 3. Click on the button that says "Code"
@@ -160,16 +170,16 @@ The portfolio image is is underneath the summary paragraph of the home page, I w
 10. Clone the repository
 11. Open the folder that has the clone in VS code
 
-9. Credits
-##Code Sources
+## 9. Credits
+### Code Sources
 
-##Media Sources
+### Media Sources
 The portfolio image is a personal photograph that Gwendoline had taken for LinkedIn
 
-##Content References
+### Content References
 
 
-##Acknowledgements
+## Acknowledgements
 1. Built using Visual Studio Code and GitHub Pages
 2. W3C Validator - ![W3C HTML Validation](https://validator.w3.org/)
 3. Jigsaw Validator - ![Jigsaw W3 Validation](https://jigsaw.w3.org/css-validator/)
