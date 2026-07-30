@@ -1,7 +1,9 @@
+/*Black Text where needed across the pages*/
 .text-black {
 color: #000000;
 }
 
+/*Base page styles across all pages includes the background, font, text color*/
 body{
     background-color: #EDEEE9;
     font-family: Sans-serif;
@@ -10,39 +12,43 @@ body{
     margin: 0;
 }
 
-/*Navigation */
+/*Navigation Bar */
 nav {
     background-color: #fffaf3;
     padding: 20px;
     text-align: left;
 }
 
+/*Navigation links styling: color, font weight, text transform*/
 nav a {
 color: #000000;
 font-weight: 600;
 text-transform: uppercase;
 }
 
+/*Navigation links hover effect: color change*/
 nav a:hover {
     color: #e79805;
 }
 
-/*header*/
+/*Page header styles*/
 header {
     padding: 20px;
     background-color: #fffaf3;
 }
 
+/*Header figure styling: float right, margin left for spacing*/
 header figure {
     float: right;
     margin-left: 20px;
 }
 
-/*heading*/
+/*heading color shared across all pages*/
 h1, h2, h3 {
     color: #000000;
 }
 
+/*Horizontal rule styling shared across all pages*/
 hr {
     border: 0;
     height: 2px;
@@ -50,22 +56,24 @@ hr {
     margin: 20px 0;
 }
 
+/*Constraining the body width for better readability and centering it on the page*/
 body {
     max-width: 800px;
     margin: 0 auto;
 }
 
+/*Paragraph styling shared across all pages: font size and color*/
 p {
 font-size: 1rem;
 color: #000000;
 }
 
-/*section*/
+/*Consistent styling around each section*/
 section {
     padding: 20px;
 }
 
-/*articles/cards*/
+/*Shared "card" style used for projects, services, work history, skills, awards and contact information*/
 .project-card,
 .service-card,
 .work-history-card,
@@ -80,7 +88,7 @@ section {
     margin-bottom: 16px;
 }
 
-/*footer*/
+/*Site footer copyright line, shared across all pages*/
 footer {
     border-top: 1px solid #ccc;
     background-color: #fffaf3;

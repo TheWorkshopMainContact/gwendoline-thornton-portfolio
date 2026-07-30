@@ -88,11 +88,19 @@ Testing the index.html code through the W3C validator for errors. No errors foun
 ![index.html code check through validator](/assets/images/index-w3c-check.png)
 
 Testing the about.html code through the W3C validator for errors. There were several errors relating to using the section tag for the skills list and the awards section. So the section tag was changed to a div tag here.
-![index.html code check through validator](/assets/images/index-w3c-check.png)
+![about.html code check through validator](/assets/images/about-w3c-html-check-one.png)
 
 Testing about.html code through the W3C validator second check. No errors found.
-![index.html code check through validator](/assets/images/index-w3c-check.png)
+![about.html code check through validator](/assets/images/about-w3c-html-check-two.png)
 
+Testing contact.html code through the W3C validator first check. There is a section with no heading that will be changed to a div.
+![contact.html code check through validator](/assets/images/about-w3c-html-check-one.png)
+
+Testing contact.html code through the W3C validator second check. No errors found.
+![contact.html code check through validator](/assets/images/about-w3c-html-check-two.png)
+
+Testing custom css code through Jigsaw validator. No errors found.
+![style.css code check through validator](/assets/images/css-jigsaw-validator.png)
 
 Lighthouse Testing
 
