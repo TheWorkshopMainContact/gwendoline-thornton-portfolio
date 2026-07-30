@@ -2,14 +2,13 @@
 Gwendoline Thornton
 
 ## Table of Contents
-
 1. Introduction
 What the project is: Portfolio
 Objectives: I want it to be clear who Gwendoline Thornton is, what I do and how people visiting the site can get in touch.
 3 Pages: Home Page (Key Projects & Services/Skills for sale), About Page (CV History) & Contact Page
 Audience: Customers, Employers, Collaborators
 SEO: Keywords such as "Gwendoline Thornton" need to be in the title & H1 tags, and possibly lower down in H2 tags. For an image of Gwen there should be an alt tag with my name "Gwendoline Thornton"
-Image Optimisation: Optimise images so they have small file sizes 
+Image Optimization: Optimize images so they have small file sizes 
 
 2. Project Overview
 A three-page personal portfolio website for Gwendoline Thornton, owner of THE.WORKSHOP LTD, a product design and manufacturing company working across hardware, assistive tech and plastic toy manufacturing. The website is to be a professional location and home for all of my work that can be shown to employers, collaborators and potential clients when they search my name, rather than relying solely on LinkedIn or third-party press coverage.
@@ -43,9 +42,9 @@ Minimal, clean, content-first layout which puts text and key information first, 
 Significant white space and clear text hierarchy so the page can be easily scanned and read easily by recruiters/clients
 Consistent Layout/Navigation on all of the pages 
 
-Colour Scheme
-Background Colour: Hex Code #
-Text Colour: Hex Code #
+##Color Scheme
+Background Color: Hex Code #EDEEE9
+Text Color: Hex Code #000000
 
 Typography
 Body Text: Sans-serif
@@ -57,7 +56,9 @@ Contact Page: Email, Phone Number, LinkedIn, Relevant Company Pages
 Consistent header and footer across all pages for consistency 
 
 4. Wireframes
-
+![draw.io wireframe for home page](assets/images/gwendoline-thornton-portfolio-home.png)
+![draw.io wireframe for about page](assets/images/gwendoline-thornton-portfolio-home.png)
+![draw.io wireframe for contact page](assets/images/gwendoline-thornton-portfolio-home.png)
 
 5. Features
 Existing Features
@@ -80,7 +81,9 @@ Jigsaw Validator
 
 7. Testing
 Manual Testing
-Clicking through navigation links and page content across all pages
+1. Clicking through navigation links and page content across all pages.
+2. Clicking on all links that lead externally from the page to ensure that they open up into a new page
+3. The page was opened up both in visual studio code and via GitHub pages, and the size of the viewing area of the page was adjusted by both width and height manually through both adjusting the size of the browser or the view. This showed how the page moved and that all sections remaind stable when the viewing window changed.
 
 User Story Testing
 
@@ -124,7 +127,9 @@ Testing on a mobile and a laptop view through using the inspect view
 ![Screenshot of testing through inspect tool for desktop view](assets/images/desktop-testing-responsiveness.png)
 
 Bugs Fixed
-
+1. The article tag was switched to the section tag upon review that it wasn't the appropriate tag. These were changes to sections.
+2. The style.css sheet was not linked properly to the html documents due to an incorrect path.
+3. The path for all of the images referenced in both the home page (index.html) and README.md was not working when the project was pushed to GitHub pages, this had to be changed when the site was published by removing the "/" at the start of the path.
 
 ##Known Issues
 The portfolio image is is underneath the summary paragraph of the home page, I would like to move the placement of this image to the right side on a future version for personal aesthetic reasons that I think are easier to read and view from a customer/client viewing the website.
@@ -156,7 +161,7 @@ The portfolio image is is underneath the summary paragraph of the home page, I w
 11. Open the folder that has the clone in VS code
 
 9. Credits
-    - Code Sources
+##Code Sources
 
 ##Media Sources
 The portfolio image is a personal photograph that Gwendoline had taken for LinkedIn
@@ -172,4 +177,5 @@ The portfolio image is a personal photograph that Gwendoline had taken for Linke
 5. W3 Schools HTML Tutorial - ![HTML Tutorial](https://www.w3schools.com/html/)
 6. W3 SChools HTML Accessibility - ![HTML Accessibility Tutorial](https://www.w3schools.com/html/html_accessibility.asp)
 7. W3 Schools CSS Tutorial - ![CSS Tutorial](https://www.w3schools.com/css/default.asp)
+8. Wireframe - ![draw.io Wireframe](www.draw.io)
 
