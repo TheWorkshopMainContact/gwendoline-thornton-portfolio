@@ -1,21 +1,73 @@
-#projects-heading {
-    background-color: brown;
+.text-black {
+color: #000000;
 }
 
+body{
+    background-color: #EDEEE9;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #000000;
+    margin: 0;
+}
 
-<!--
-.text-center {
+/*Navigation */
+nav {
+    background-color: #fffaf3;
+    padding: 20px;
     text-align: left;
 }
 
-.text-black {
-    color: black;
+nav a {
+color: #000000;
+font-weight: 600;
+text-transform: uppercase;
 }
 
-.contact-box {
-	background-color: chocolate;
+nav a:hover {
+    color: #e79805;
+}
+
+/*header*/
+header {
+    padding: 20px;
+}
+
+header figure {
+    float: right;
+    margin-left: 20px;
+}
+
+/*heading*/
+h1, h2, h3 {
+    color: #000000;
+}
+
+/*section*/
+section {
+    padding: 20px;
+}
+
+/*articles/cards*/
+.project-card,
+.service-card,
+.work-history-card,
+.skills-card,
+.award-card,
+.contact-card
+{
+    background-color: #fffaf3;
+    color: #000000;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+/*footer*/
+footer {
+    background-color: #fffaf3;
+    color: #000000;
+    text-align: center;
+    padding: 30px;
 }
 
 
-
--->
