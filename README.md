@@ -75,6 +75,8 @@ HTML5
 CSS
 Visual Studio Code
 GitHub
+W3C Validator
+Jigsaw Validator
 
 7. Testing
 Manual Testing
