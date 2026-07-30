@@ -92,7 +92,9 @@ The page will be made from HTML and CSS only.
 ## 7. Testing
 ### Manual Testing
 1. Clicking through navigation links and page content across all pages.
+![Testing for Internal Navigation Links](assets/images/testing-for-internal-navigation-links.png)
 2. Clicking on all links that lead externally from the page to ensure that they open up into a new page
+![Testing for External Links](assets/images/testing-for-external-links.png)
 3. The page was opened up both in visual studio code and via GitHub pages, and the size of the viewing area of the page was adjusted by both width and height manually through both adjusting the size of the browser or the view. This showed how the page moved and that all sections remaind stable when the viewing window changed.
 
 ### User Story Testing
