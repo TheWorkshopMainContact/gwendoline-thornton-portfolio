@@ -126,17 +126,21 @@ Testing on a mobile and a laptop view through using the inspect view
 Bugs Fixed
 
 
-Known Issues
-
+##Known Issues
+The portfolio image is is underneath the summary paragraph of the home page, I would like to move the placement of this image to the right side on a future version for personal aesthetic reasons that I think are easier to read and view from a customer/client viewing the website.
 
 8. Deployment
 ##Deployment Steps
-    ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section one](assets/images/github-deployment-pages-step-one.png)
-    ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section two](assets/images/github-deployment-pages-step-two.png)
-    ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section three](assets/images/github-deployment-pages-step-three.png)
-    ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section four](assets/images/github-deployment-pages-step-four.png)
+![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section one](assets/images/github-deployment-pages-step-one.png)
+![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section two](assets/images/github-deployment-pages-step-two.png)
+![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section three](assets/images/github-deployment-pages-step-three.png)
+![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section four](assets/images/github-deployment-pages-step-four.png)
+
 ##Local Development Setup
-    
+1. Clone the repository
+2. Move it into the folder
+3. Open the project in VS Code
+4. To view the site open the index.html in your browser  
 
 ##Cloning the Repository
 1. Got to github.com
@@ -148,14 +152,24 @@ Known Issues
 7. Open VS Code
 8. Open a new terminal in VS Code
 9. Navigate through the terminal to where you want to save the project
-10. 
+10. Clone the repository
+11. Open the folder that has the clone in VS code
 
 9. Credits
     - Code Sources
-    - Media Sources
-    - Content References
-    - Acknowledgements
-    W3C Validator - https://validator.w3.org/
-    Jigsaw Validator - https://jigsaw.w3.org/css-validator/
-    Lighthouse - https://developer.chrome.com/docs/lighthouse
+
+##Media Sources
+The portfolio image is a personal photograph that Gwendoline had taken for LinkedIn
+
+##Content References
+
+
+##Acknowledgements
+1. Built using Visual Studio Code and GitHub Pages
+2. W3C Validator - ![W3C HTML Validation](https://validator.w3.org/)
+3. Jigsaw Validator - ![Jigsaw W3 Validation](https://jigsaw.w3.org/css-validator/)
+4. Lighthouse - ![Google Lighthouse Testing](https://developer.chrome.com/docs/lighthouse)
+5. W3 Schools HTML Tutorial - ![HTML Tutorial](https://www.w3schools.com/html/)
+6. W3 SChools HTML Accessibility - ![HTML Accessibility Tutorial](https://www.w3schools.com/html/html_accessibility.asp)
+7. W3 Schools CSS Tutorial - ![CSS Tutorial](https://www.w3schools.com/css/default.asp)
 
