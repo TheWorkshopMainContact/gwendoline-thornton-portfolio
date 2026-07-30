@@ -36,7 +36,7 @@ The page will be made from HTML and CSS only.
 - Make it easy visitors to contact her
 - Use HTML & CSS in the code
 
-### User Stories
+## User Stories
 ### Employer or Collaborator
 - Skills and experience and assess my fit for a role/project.
 - A CV-style summary of work history in one place
