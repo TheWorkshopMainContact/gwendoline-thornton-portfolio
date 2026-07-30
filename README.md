@@ -64,11 +64,11 @@ The page will be made from HTML and CSS only.
 - Consistent header and footer across all pages for consistency 
 
 ## 4. Wireframes
-- Home Page Wireframe - ![draw.io wireframe for home page](assets/images/gwendoline-thornton-portfolio-home.png)
+- Home Page Wireframe ![draw.io wireframe for home page](assets/images/gwendoline-thornton-portfolio-home.png)
 
-- About Page Wireframe - ![draw.io wireframe for about page](assets/images/gwendoline-thornton-portfolio-about.png)
+- About Page Wireframe ![draw.io wireframe for about page](assets/images/gwendoline-thornton-portfolio-about.png)
 
-- Contact Page Wireframe - ![draw.io wireframe for contact page](assets/images/gwendoline-thornton-portfolio-contact.png)
+- Contact Page Wireframe ![draw.io wireframe for contact page](assets/images/gwendoline-thornton-portfolio-contact.png)
 
 ## 5. Features
 ### Existing Features
