@@ -98,7 +98,13 @@ The page will be made from HTML and CSS only.
 3. The page was opened up both in visual studio code and via GitHub pages, and the size of the viewing area of the page was adjusted by both width and height manually through both adjusting the size of the browser or the view. This showed how the page moved and that all sections remaind stable when the viewing window changed.
 
 ### User Story Testing
-
+|User Story | How it was met |
+|---|---|
+|Skills and experience to assess fit | About page lists work history, skills and award in a clear easy to read format
+|Work history | Recent work history listed on the About Page
+|How to Contact Gwendoline Thornton | Contact Page with several different options for the person to reach out on
+|Understand who Gwendoline is and what she does | Home page with name, jon title and short summary of focus area
+|Evidence of past work | Home page has "Headline Projects" section with 3 project cards and descriptions
 
 ### Validator Testing
 Testing the index.html code through the W3C validator for errors. No errors found.
