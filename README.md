@@ -129,7 +129,13 @@ Testing the github page in Google Chrome Lighthouse for performance issues for b
 ![Testing of GitHub page ing Google Chrome Lighthouse, for desktop, screenshot of top of page section](assets/images/lighthouse-test-desktop-performance-1.png)
 
 ### Browser Compatibility
-Test in google chrome, Microsoft edge, Safari
+Tested website in Google Chrome
+![Testing of GitHub page ing Google Chrome Lighthouse, for desktop, screenshot of top of page section](assets/images/microsoft-edge-browser-compatability.png)
+
+Tested website in Firefox
+![Testing of GitHub page ing Google Chrome Lighthouse, for desktop, screenshot of top of page section](assets/images/firefox-browser-compatability.png)
+
+I was not able to test on Safari via the windows laptop/desktop that I had to try the github page.
 
 ### Responsiveness Testing
 Testing on a mobile and a laptop view through using the inspect view
@@ -151,7 +157,7 @@ The portfolio image is is underneath the summary paragraph of the home page, I w
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section three](assets/images/github-deployment-pages-step-three.png)
 ![Testing of GitHub page ing Google Chrome Lighthouse, for mobile, screenshot of page section four](assets/images/github-deployment-pages-step-four.png)
 
-### SLocal Development Setup
+### Local Development Setup
 1. Clone the repository
 2. Move it into the folder
 3. Open the project in VS Code
@@ -172,20 +178,22 @@ The portfolio image is is underneath the summary paragraph of the home page, I w
 
 ## 9. Credits
 ### Code Sources
+- HTML and CSS layout tutorials from Code Institute LMS - <https://lms.codeinstitute.net/>
 
 ### Media Sources
 The portfolio image is a personal photograph that Gwendoline had taken for LinkedIn
 
 ### Content References
-
+- Bio text descriptions, projects and awards from Gwendoline Thornton's LinkedIn - <https://linkedin.com/in/gwendoline-thornton>
+- Facts for HTML and CSS layout from Code Institute LMS - <https://lms.codeinstitute.net/>
 
 ## Acknowledgements
-1. Built using Visual Studio Code and GitHub Pages
-2. W3C Validator - ![W3C HTML Validation](https://validator.w3.org/)
-3. Jigsaw Validator - ![Jigsaw W3 Validation](https://jigsaw.w3.org/css-validator/)
-4. Lighthouse - ![Google Lighthouse Testing](https://developer.chrome.com/docs/lighthouse)
-5. W3 Schools HTML Tutorial - ![HTML Tutorial](https://www.w3schools.com/html/)
-6. W3 SChools HTML Accessibility - ![HTML Accessibility Tutorial](https://www.w3schools.com/html/html_accessibility.asp)
-7. W3 Schools CSS Tutorial - ![CSS Tutorial](https://www.w3schools.com/css/default.asp)
-8. Wireframe - ![draw.io Wireframe](www.draw.io)
+1. Built using Visual Studio Code, GitHub and GitHub Pages
+2. W3C Validator - <https://validator.w3.org/>
+3. Jigsaw Validator - <https://jigsaw.w3.org/css-validator/>
+4. Lighthouse - <https://developer.chrome.com/docs/lighthouse>
+5. W3 Schools HTML Tutorial - <https://www.w3schools.com/html/>
+6. W3 SChools HTML Accessibility - <https://www.w3schools.com/html/html_accessibility.asp>
+7. W3 Schools CSS Tutorial -<https://www.w3schools.com/css/default.asp>
+8. Wireframe - <https://app.diagrams.net/>
 
