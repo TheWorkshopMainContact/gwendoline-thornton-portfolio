@@ -4,7 +4,7 @@ color: #000000;
 
 body{
     background-color: #EDEEE9;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Sans-serif;
     line-height: 1.6;
     color: #000000;
     margin: 0;
@@ -30,6 +30,7 @@ nav a:hover {
 /*header*/
 header {
     padding: 20px;
+    background-color: #fffaf3;
 }
 
 header figure {
@@ -40,6 +41,23 @@ header figure {
 /*heading*/
 h1, h2, h3 {
     color: #000000;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+p {
+font-size: 1rem;
+color: #000000;
 }
 
 /*section*/
@@ -64,6 +82,7 @@ section {
 
 /*footer*/
 footer {
+    border-top: 1px solid #ccc;
     background-color: #fffaf3;
     color: #000000;
     text-align: center;
