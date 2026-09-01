@@ -38,11 +38,15 @@ The page will be made from HTML and CSS only.
 
 ## User Stories
 ### Employer or Collaborator
+As an employee, I want to find a relevant skilled worker with evidence of previous work experience so that I can employ them to work on relevant manufacturing problems within the business.
+
+As a collaborator, I want to find people with significant experience in compatible skills sets, such as Computer Aided Design, so that I can work with them to create a great product or experience for clients.
 - Skills and experience and assess my fit for a role/project.
 - A CV-style summary of work history in one place
 - Easy to contact me (Gwen) directly
 
 ### Customer
+As a customer, I want to find relevant qualifiedservices so that I can manufacture or design a particular product.
 - Who Gwen is, her skills and services on offer and can decide to reach out
 - Evidence of past work or projects which build trust
 - Contact details easily accessible
