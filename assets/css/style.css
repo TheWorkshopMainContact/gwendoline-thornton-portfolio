@@ -97,4 +97,14 @@ footer {
     padding: 30px;
 }
 
+/*Media queries for responsive design, adjusting styles based on screen width*/
+/*Smaller phone screens*/
+@media (max-width: 400px) {
+}
+/*Large phones / small tablets
+@media (min-width: 401px) {
+}
+/*Laptop and desktop screens*/
+@media (min-width: 1020px) { 
+}
 
