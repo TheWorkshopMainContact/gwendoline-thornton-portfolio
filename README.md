@@ -212,7 +212,7 @@ Follow these steps to get a working copy of the project on a computer.
 3. Click the green button labelled **Code**.
 4. A small box will drop down. Make sure the **HTTPS** tab is selected, then click the small copy icon next to the web address shown to copy it.
 5. Open VS Code.
-6. Open a terminal: click **Terminal** in the top menu bar, then **New Terminal**. A panel will open at the bottom of the window — this is where you'll type commands.
+6. Open a terminal: click **Terminal** in the top menu bar, then **New Terminal**. A panel will open at the bottom of the window this is where you'll type commands.
 7. In the terminal, navigate to the folder on your computer where you want to save the project. Do this by typing `cd` followed by a space and the folder path, then pressing Enter. For example, to save it in your Documents folder: `cd Documents`
 8. Clone the repository by typing the following and pressing Enter (this pastes the address copied in step 4):
 `git clone https://github.com/TheWorkshopMainContact/gwendoline-thornton-portfolio.git`
