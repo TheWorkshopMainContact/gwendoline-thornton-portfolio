@@ -46,7 +46,7 @@ As a collaborator, I want to find people with significant experience in compatib
 - Easy to contact me (Gwen) directly
 
 ### Customer
-As a customer, I want to find relevant qualifiedservices so that I can manufacture or design a particular product.
+As a customer, I want to find relevant qualified services so that I can manufacture or design a particular product.
 - Who Gwen is, her skills and services on offer and can decide to reach out
 - Evidence of past work or projects which build trust
 - Contact details easily accessible
