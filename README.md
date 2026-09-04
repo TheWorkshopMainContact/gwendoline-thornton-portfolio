@@ -177,7 +177,7 @@ The live site is hosted at: <https://theworkshopmaincontac.github.io/gwendoline-
 3. Name the New Repository
 4. Select public so the site can be viewed, leave all other repository options on the default settings, then click Create Repository. 
 5. GitHub will show an empty repository with setup instructions
-6. To connect the project files (in visual studio code) already on your computer to the repository created on GitHub
+6. To connect the project files (in visual studio code) on your computer to the repository created on GitHub
 7. Open the project folder in Visual Studio Code
 8. Open a terminal in Visual Studio Code. Click Terminal in the top menu bar on the left, then New Terminal. This should open at the top of the Visual Studio Code so you can type the commands below.
 9. To turn the folder into a Git project type `git init`
@@ -204,7 +204,6 @@ Follow these steps to get a working copy of the project on a computer.
 3. Clone the repository, see the **Cloning the Repository** section below for full step-by-step instructions.
 4. Once cloned, open the project folder in VS Code: click **File** to **Open Folder**, then select the `gwendoline-thornton-portfolio` folder just cloned.
 5. To view the site, find `index.html` in VS Code's file explorer on the left, right-click it, choose **Reveal in File Explorer**, then double-click the file to open it in the web browser.
-
 
 ### Cloning the Repository
 1. Go to [github.com](https://github.com) and log in or create a free account
